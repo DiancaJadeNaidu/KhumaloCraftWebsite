@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Payment";
+}
+
+<h1>Payment</h1>
+
+<form asp-action="ProcessPayment" method="post">
+    <div class="form-group">
+        <label for="paymentMethod">Choose a payment method:</label>
+        <select class="form-control" id="paymentMethod" name="paymentMethod">
+            <option value="Credit Card">Credit Card</option>
+            <option value="PayPal">PayPal</option>
+            <option value="Bank Transfer">Bank Transfer</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="cardNumber">Credit Card Number:</label>
+        <input type="text" class="form-control" id="cardNumber" name="cardNumber" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Proceed to Payment Confirmation</button>
+</form>

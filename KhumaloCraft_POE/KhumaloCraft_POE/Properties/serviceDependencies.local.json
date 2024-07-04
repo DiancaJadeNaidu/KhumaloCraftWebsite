@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:KhumaloCraft_Part2Context"
+    }
+  }
+}

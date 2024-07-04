@@ -1,0 +1,58 @@
+﻿@model IEnumerable<KhumaloCraft_Part2.Models.Orders>
+
+<h1>Order History</h1>
+
+<!-- Table for displaying order history -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Order Date</th>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Status</th>
+            <th>User Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop through each order in the Model collection -->
+        @foreach (var item in Model)
+        {
+            <tr>
+                <!-- Display the order details using Html.DisplayFor to ensure correct formatting -->
+                <td>@Html.DisplayFor(modelItem => item.OrderId)</td>
+                <td>@Html.DisplayFor(modelItem => item.OrderDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Quantity)</td>
+                <td>@Html.DisplayFor(modelItem => item.Status)</td>
+                <td>@Html.DisplayFor(modelItem => item.UserEmail)</td>
+                <td>
+                    <!-- If the logged-in user is the admin, display the status update form -->
+                    @if (User.Identity.Name == "admin@gmail.com")
+                    {
+                        <!-- Form for updating order status -->
+                        <form asp-controller="Products" asp-action="UpdateStatus" method="post">
+                            <!-- Hidden field to hold the order ID -->
+                            <input type="hidden" name="orderId" value="@item.OrderId" />
+                            <!-- Dropdown to select new status -->
+                            <select name="status">
+                                <option value="Pending">Pending</option>
+                                <option value="Processing">Processing</option>
+                                <option value="Completed">Completed</option>
+                                <option value="Cancelled">Cancelled</option>
+                            </select>
+                            <!-- Button to submit the form and update the status -->
+                            <button type="submit">Update Status</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Navigation links for different pages -->
+<a asp-action="Index">Home</a> |
+<a asp-action="About">About Us</a> |
+<a asp-action="Contact">Contact</a> |
+<a asp-controller="Products" asp-action="Index">Products</a>

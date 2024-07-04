@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Payment Confirmation";
+}
+
+<div class="confirmation-container">
+    <h1>Payment Confirmation</h1>
+
+    <div class="order-summary">
+        <h3>Order Summary</h3>
+        <div>
+            <h4>Selected Delivery Method: @ViewBag.DeliveryMethod</h4>
+            <h4>Address: @ViewBag.Address</h4>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="payment-details">
+        <h3>Payment Details</h3>
+        <div>
+            <h4>Selected Payment Method: @ViewBag.PaymentMethod</h4>
+            <h4>Credit Card Number: @ViewBag.CardNumber</h4>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="total-price">
+        <h3>Total Price: $@ViewBag.TotalPrice</h3>
+    </div>
+
+    <hr>
+
+    <div class="items-ordered">
+        <h3>Items Ordered</h3>
+        @foreach (var item in ViewBag.CartItems)
+        {
+            <div>
+                <h4>Product: @item.ProductName</h4>
+                <h4>Price: $@item.Price</h4>
+                <h4>Quantity: @item.Quantity</h4>
+            </div>
+        }
+    </div>
+
+    <hr>
+
+    <div class="thank-you">
+        <h4>Thank you for your purchase!</h4>
+    </div>
+</div>

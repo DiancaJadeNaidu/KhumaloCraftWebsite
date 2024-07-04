@@ -1,0 +1,11 @@
+﻿@model Products
+
+<h2>Place Order</h2>
+
+<form asp-action="PlaceOrder" asp-controller="Products" method="post">
+    <input type="hidden" asp-for="ProductID" />
+    <label for="Quantity">Quantity:</label>
+    <input type="number" name="Quantity" required />
+    <button type="submit">Place Order</button>
+</form>
+

@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\cart\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\cart\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\cart\\showdeliverymethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\cart\\showdeliverymethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\products\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\products\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\products\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\products\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\data\\khumalocraft_part2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\data\\khumalocraft_part2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\migrations\\20240503043111_updateprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\migrations\\20240503043111_updateprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\cart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\cart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\cart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\cart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\views\\cart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\views\\cart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\migrations\\khumalocraft_part2contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\migrations\\khumalocraft_part2contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\visual studio\\khumalocraft_part2\\khumalocraft_part2\\migrations\\20240527142811_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230F096-6A6C-428B-86A7-7C1D2638F291}|KhumaloCraft_Part2\\KhumaloCraft_Part2.csproj|solutionrelative:khumalocraft_part2\\migrations\\20240527142811_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowDeliveryMethod.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\ShowDeliveryMethod.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Cart\\ShowDeliveryMethod.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\ShowDeliveryMethod.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Cart\\ShowDeliveryMethod.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:12:16.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Products\\OrderHistory.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\OrderHistory.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Products\\OrderHistory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T14:08:34.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\PaymentConfirmation.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Cart\\PaymentConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\PaymentConfirmation.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Cart\\PaymentConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:19:25.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\Payment.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Cart\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\Payment.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Cart\\Payment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:18:11.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:53:02.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEAAAACAMzMzMzMlwA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:29:16.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Controllers\\CartController.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:53:50.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaceOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\PlaceOrder.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Products\\PlaceOrder.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\PlaceOrder.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Products\\PlaceOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:14:48.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:51:20.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T05:29:24.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T04:35:49.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:23:59.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "KhumaloCraft_Part2\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACMAAAAAMzMzMzMrwDUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-25T09:32:22.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KhumaloCraft_Part2Context.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Data\\KhumaloCraft_Part2Context.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Data\\KhumaloCraft_Part2Context.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Data\\KhumaloCraft_Part2Context.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Data\\KhumaloCraft_Part2Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:28:03.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Services\\CartService.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Services\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:40:04.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAABkAAADAMjMzMzMrwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T04:42:45.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T04:27:48.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Program.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Program.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Program.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:07:48.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Models\\SeedData.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Models\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:02:22.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\appsettings.json",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\appsettings.json",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\appsettings.json",
+              "RelativeToolTip": "KhumaloCraft_Part2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T06:04:02.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAABQAAABAMzMzMzMbwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:24:06.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240527142811_DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Migrations\\20240527142811_DBContext.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Migrations\\20240527142811_DBContext.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Migrations\\20240527142811_DBContext.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Migrations\\20240527142811_DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:28:11.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T05:18:38.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240503043111_UpdateProd.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Migrations\\20240503043111_UpdateProd.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Migrations\\20240503043111_UpdateProd.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Migrations\\20240503043111_UpdateProd.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Migrations\\20240503043111_UpdateProd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:31:11.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAABYAAACAMzMzMzMrwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T04:34:53.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KhumaloCraft_Part2ContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Migrations\\KhumaloCraft_Part2ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Migrations\\KhumaloCraft_Part2ContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Migrations\\KhumaloCraft_Part2ContextModelSnapshot.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Migrations\\KhumaloCraft_Part2ContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:29:08.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T04:44:23.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\Delete.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Cart\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\Delete.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Cart\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:50:03.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\Create.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Cart\\Create.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\Create.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Cart\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:40:42.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Views\\Cart\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Views\\Cart\\Edit.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Views\\Cart\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T04:26:53.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part2\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\Visual Studio\\KhumaloCraft_Part2\\KhumaloCraft_Part2\\Models\\Products.cs",
+              "RelativeToolTip": "KhumaloCraft_Part2\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:21:53.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

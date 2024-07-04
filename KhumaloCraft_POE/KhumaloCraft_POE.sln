@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KhumaloCraft_POE", "KhumaloCraft_POE\KhumaloCraft_POE.csproj", "{402D47EB-E177-426B-BBC9-AB7DB537EFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402D47EB-E177-426B-BBC9-AB7DB537EFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402D47EB-E177-426B-BBC9-AB7DB537EFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402D47EB-E177-426B-BBC9-AB7DB537EFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402D47EB-E177-426B-BBC9-AB7DB537EFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807CFF6E-0EB8-4056-AC1B-D77B4B0A49FE}
+	EndGlobalSection
+EndGlobal

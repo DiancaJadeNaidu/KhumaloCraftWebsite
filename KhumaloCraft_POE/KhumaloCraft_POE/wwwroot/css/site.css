@@ -1,0 +1,58 @@
+/* Setting the background color of the body to greenyellow and text color to purple */
+body {
+    background-color: greenyellow;
+    color: purple;
+}
+
+/* Styling the welcome text: center alignment, bottom margin, and larger font size */
+.welcome-text {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+/* Centering the image container and adding bottom margin */
+.image-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Styling the images wrapper to use flexbox for layout:
+   - Row direction
+   - Center alignment for both axis */
+.images-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Adding horizontal margin to images inside the image container */
+.image-container img {
+    margin: 0 10px;
+}
+
+/* Center aligning the links container and preventing text wrapping */
+.links {
+    text-align: center;
+    white-space: nowrap;
+}
+
+    /* Styling individual links:
+   - Inline block display for better spacing control
+   - White color for text
+   - Removing underline from links
+   - Adding horizontal margin */
+    .links a {
+        display: inline-block;
+        color: white;
+        text-decoration: none;
+        margin: 0 10px;
+    }
+
+/* Styling subtext with specific font size, color, and font family */
+.subtext {
+    font-size: 16px;
+    color: blue;
+    font-family: Arial, sans-serif;
+}

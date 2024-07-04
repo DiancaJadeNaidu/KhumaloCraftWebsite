@@ -1,0 +1,73 @@
+﻿@model List<CartItem>
+
+<h1>Shopping Cart</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Total</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.Price</td>
+                <td>
+                    <form asp-action="Update" method="post">
+                        <input type="hidden" name="id" value="@item.ProductId" />
+                        <input type="number" name="quantity" value="@item.Quantity" />
+                        <button type="submit">Update</button>
+                    </form>
+                </td>
+                <td>@(item.Price * item.Quantity)</td>
+                <td>
+                    <form asp-action="Delete" method="post">
+                        <input type="hidden" name="id" value="@item.ProductId" />
+                        <button type="submit">Remove</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<!-- Calculate total price -->
+@{
+    decimal totalPrice = Model.Sum(item => item.Price * item.Quantity);
+    decimal discountAmount = 0;
+
+    // Apply discount if there are 3 or more items
+    if (Model.Count() >= 3)
+    {
+        discountAmount = totalPrice * 0.2m; // 20% discount
+    }
+
+    // Apply free delivery if total price is over 100
+    if (totalPrice > 100)
+    {
+        discountAmount += 10; 
+    }
+
+    // Calculate total after discounts
+    decimal totalAfterDiscounts = totalPrice - discountAmount;
+}
+<!-- Display total price with discounts -->
+<div>
+    <style="font-size: 15px; color: #0066cc;">
+    <h3>Total Price before discounts: $@totalPrice</h3>
+    <h3>Discount Amount: $@discountAmount</h3>
+    <h2>Total Price after discounts: $@totalAfterDiscounts</h2>
+
+<form asp-action="DeliveryMethod" method="post">
+    <button type="submit">Checkout</button>
+</form>
+
+@if (TempData["Message"] != null)
+{
+    <div>@TempData["Message"]</div>
+}
